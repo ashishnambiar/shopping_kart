@@ -1,16 +1,17 @@
-# shopping_kart
+# shopping kart
 
-A new Flutter project.
+This is e-commerce style Shopping Kart Project developed using Flutter.
+
+This is a personal project, not for commercial use.
+
+## [This project can be viewed from your Browser using this link (works best on a phone)](https://ashishnambiar.github.io/hosted_shopping_kart/)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Project uses 
+-  [Provider Package](https://pub.dev/packages/provider) for State Management and Dependency Injection 
+-  [http Package](https://pub.dev/packages/http) for receiving data from the internet.
 
-A few resources to get you started if this is your first Flutter project:
+- The json that is used in this project is from a [public gist](https://gist.githubusercontent.com/ashishnambiar/cb2693a8b20b357aeec41d754b3514a0/raw/2ed7dce9b8d25867938bb4c55c6a559bbe3f7e15/products.json) I created.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- The Images are from various sources - refer > lib/Controller/fruits_controller.dart 
